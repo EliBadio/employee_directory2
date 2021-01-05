@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EliBadio/employee_directory2static/css/main.8330b009.chunk.css",
+    "main.js": "/EliBadio/employee_directory2static/js/main.36465fa2.chunk.js",
+    "main.js.map": "/EliBadio/employee_directory2static/js/main.36465fa2.chunk.js.map",
+    "runtime-main.js": "/EliBadio/employee_directory2static/js/runtime-main.96b2842c.js",
+    "runtime-main.js.map": "/EliBadio/employee_directory2static/js/runtime-main.96b2842c.js.map",
+    "static/js/2.22610901.chunk.js": "/EliBadio/employee_directory2static/js/2.22610901.chunk.js",
+    "static/js/2.22610901.chunk.js.map": "/EliBadio/employee_directory2static/js/2.22610901.chunk.js.map",
+    "index.html": "/EliBadio/employee_directory2index.html",
+    "static/css/main.8330b009.chunk.css.map": "/EliBadio/employee_directory2static/css/main.8330b009.chunk.css.map",
+    "static/js/2.22610901.chunk.js.LICENSE.txt": "/EliBadio/employee_directory2static/js/2.22610901.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96b2842c.js",
+    "static/js/2.22610901.chunk.js",
+    "static/css/main.8330b009.chunk.css",
+    "static/js/main.36465fa2.chunk.js"
+  ]
+}
