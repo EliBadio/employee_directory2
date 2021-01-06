@@ -1,6 +1,5 @@
 {
   "name": "employee_directory2",
-  "homepage": "https://EliBadio.github.io/employee_directory2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,7 +27,7 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/EliBadio/employee_directory2.git"
+    "url": "git+https://github.com/EliBadio/employee_directory2.git"
   },
   "keywords": [],
   "author": "",
@@ -54,5 +53,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/EliBadio/employee_directory"
+  "homepage": "https://github.com/EliBadio/employee_directory#readme"
 }
